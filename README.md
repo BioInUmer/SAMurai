@@ -3,6 +3,20 @@
 This SAM file analyst takes multiple alignments and an assembly map to instantly summarize total reads and their distribution across the genome.
 
 ---
+## 📁 Repo Structure
+```
+sam-align-summary/
+│
+├── sam_urai.sh     # Main script
+├── example_data/                # Example input files
+│   ├── sample1.sam
+│   ├── sample2.sam
+│   └── assembly_report.txt
+├── output_example.txt           # Example output
+├── LICENSE
+└── README.md
+```
+---
 
 ## 🎴 Features
 
@@ -32,19 +46,7 @@ bash sam_urai.sh file1.sam file2.sam ... assembly_report.txt
 
 ---
 
-## 📁 Repo Structure
-```
-sam-align-summary/
-│
-├── sam_urai.sh     # Main script
-├── example_data/                # Example input files
-│   ├── sample1.sam
-│   ├── sample2.sam
-│   └── assembly_report.txt
-├── output_example.txt           # Example output
-├── LICENSE
-└── README.md
-```
+
 
 ---
 
