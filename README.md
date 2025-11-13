@@ -1,4 +1,5 @@
-# SAMurai 
+# SAMurai <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/920229e1-e5fc-4d4f-99e8-c5ba349de78f" />
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bash](https://img.shields.io/badge/bash-%3E%3D4.0-green.svg)](https://www.gnu.org/software/bash/)
