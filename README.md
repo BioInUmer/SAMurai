@@ -36,7 +36,7 @@ bash sam_urai.sh file1.sam file2.sam ... assembly_report.txt
 ```
 sam-align-summary/
 │
-├── sam_alignment_summary.sh     # Main script
+├── sam_urai.sh     # Main script
 ├── example_data/                # Example input files
 │   ├── sample1.sam
 │   ├── sample2.sam
@@ -48,7 +48,7 @@ sam-align-summary/
 
 ---
 
-## 📁 License
+## ©️ License
 
 
 
