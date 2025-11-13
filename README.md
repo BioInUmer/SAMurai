@@ -1,11 +1,11 @@
-# SAMurai <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/6f11556c-b14a-4386-ab99-9695e1c2592a" />
+# SAMurai <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6f11556c-b14a-4386-ab99-9695e1c2592a" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bash](https://img.shields.io/badge/bash-%3E%3D4.0-green.svg)](https://www.gnu.org/software/bash/)
 
 This SAM file analyst takes multiple alignments and an assembly map to instantly summarize total reads and their distribution across the genome.
 
-> 📄 **For detailed documentation, workflow explanations, and technical specifications, see the PDF file included in this repository.**
+> 📄 **For detailed documentation, workflow explanations, and technical specifications, see the PDF file (Report.pdf) included in this repository. Note: RUScript.sh = samurai.sh**
 
 ---
 
