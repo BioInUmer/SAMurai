@@ -1,4 +1,4 @@
-# SAMurai <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/920229e1-e5fc-4d4f-99e8-c5ba349de78f" />
+# samurai <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/920229e1-e5fc-4d4f-99e8-c5ba349de78f" />
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -33,8 +33,8 @@ This SAM file analyst takes multiple alignments and an assembly map to instantly
 
 ```bash
 # Clone and setup
-git clone https://github.com/BioInUmer/SAMurai.git
-cd SAMurai
+git clone https://github.com/BioInUmer/samurai.git
+cd samurai
 chmod +x samurai.sh
 ```
 
@@ -106,7 +106,7 @@ For detailed troubleshooting, see the included PDF documentation.
 
 ## 📁 Repo Structure
 ```
-sam-align-summary/
+samurai/
 │
 ├── samurai.sh                   # Main script
 ├── example_data/                # Example input files
